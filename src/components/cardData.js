@@ -1,13 +1,13 @@
 export default [
   {
-        id:1,
-        title: "Mount Fuji",
-        location: "Japan",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-        startDate: "12 Jan, 2021",
-        endDate: "24 Jan, 2021",
-        description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
+    id:1,
+    title: "Mount Fuji",
+    location: "Japan",
+    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    startDate: "12 Jan, 2021",
+    endDate: "24 Jan, 2021",
+    description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+    imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
   },
   {
     id:2,
@@ -21,13 +21,23 @@ export default [
   },
   { 
     id:3,
-    title: "Mount Fuji",
-    location: "Japan",
+    title: "Queretaro",
+    location: "Mexico",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-    startDate: "12 Jan, 2021",
-    endDate: "24 Jan, 2021",
-    description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-    imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
+    startDate: "2 Sept, 2020",
+    endDate: "4 Sept, 2020",
+    description: "Santiago de Querétaro es una ciudad del centro de México. Es conocida por su arquitectura colonial española bien conservada, con un sorprendente acueducto de piedra rosa. Entre los edificios barrocos destacados se incluyen la iglesia Santa Rosa de Viterbo. ",
+    imageUrl: "https://amqueretaro.com/wp-content/uploads/2022/09/quereok.jpg"
+  },
+  { 
+    id:4,
+    title: "Queretaro",
+    location: "Mexico",
+    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    startDate: "2 Sept, 2020",
+    endDate: "4 Sept, 2020",
+    description: "Santiago de Querétaro es una ciudad del centro de México. Es conocida por su arquitectura colonial española bien conservada, con un sorprendente acueducto de piedra rosa. Entre los edificios barrocos destacados se incluyen la iglesia Santa Rosa de Viterbo. ",
+    imageUrl: "https://amqueretaro.com/wp-content/uploads/2022/09/quereok.jpg"
   }
 
 ]

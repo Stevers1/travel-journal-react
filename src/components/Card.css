@@ -8,11 +8,14 @@
   display: flex;
   margin: 100px 40px;
   gap: 20px;
-}
-
-.card__text {
+  align-items: center;
 
 }
+
+.card_container:last-child{
+  margin-bottom: 40px;
+}
+
 
 .card__google_location {
   display: flex;
