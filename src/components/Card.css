@@ -1,0 +1,45 @@
+.card__image {
+  width: 125px;
+  height: 168px;
+  border-radius: 5px;
+}
+
+.card_container {
+  display: flex;
+  margin: 100px 40px;
+  gap: 20px;
+}
+
+.card__text {
+
+}
+
+.card__google_location {
+  display: flex;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 10.24px;
+  letter-spacing: 0.17em;
+  margin: 0;
+}
+
+a {
+  color: #918E9B;
+  font-weight: 400;
+  font-size: 10.24px;
+  display: inline-block;
+  margin-left: 6px;
+}
+
+.card__date{
+  font-weight: 700;
+  font-size: 10.24px;
+}
+
+.card__description {
+  font-weight: 400px;
+  font-size: 10.24px;
+  line-height: 150%;
+}
